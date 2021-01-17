@@ -1,6 +1,6 @@
-site: Sidey
-url: #yoururl
-title: Sidey
+site: Afief Afian Weblog
+url: https://afiefafian.github.io
+title: Afief Afian Weblog
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: afifafian_
@@ -11,7 +11,7 @@ author:
   name: Afief Afian
   avatar:
   email: afiefafian95@gmail.com
-  url: #yoururl
+  url: https://afiefafian.github.io
 permalink: pretty
 
 baseurl: ""
